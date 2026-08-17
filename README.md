@@ -1,2 +1,2 @@
-# html-portfolio
+# portfolio
 Learning with the Full-Stack Angela Yu course on Udemy
